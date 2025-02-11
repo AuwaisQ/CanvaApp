@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "1057578835114",
+    "firebase_url": "https://demoproject-9fc4d-default-rtdb.firebaseio.com",
+    "project_id": "demoproject-9fc4d",
+    "storage_bucket": "demoproject-9fc4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:aa4d82ae085aab922c04d3",
+        "android_client_info": {
+          "package_name": "com.erhacorpdotcom.homerental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDict6piLU3El1HY7y03g5CVtlcNszpnG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:01bf2637c9d165432c04d3",
+        "android_client_info": {
+          "package_name": "com.example.smartkirana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-033vb140s5cvoi5mel94ku6o9llpvb4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartkirana",
+            "certificate_hash": "cecc77e6f3289669e479be4c68d6ca5e4c826fea"
+          }
+        },
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDict6piLU3El1HY7y03g5CVtlcNszpnG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057578835114:android:3cfee6f876cfcbf82c04d3",
+        "android_client_info": {
+          "package_name": "com.zynomatrix.canvaz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDict6piLU3El1HY7y03g5CVtlcNszpnG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057578835114-63efjk2uaaghfbec9va6q2rq8nk6qste.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057578835114-231c97i9kigu70r6n03ie9eh6d6rg4nl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manal.wecare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
